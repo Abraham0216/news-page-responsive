@@ -28,8 +28,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Abraham0216/news-page-responsive)
-- Live Site URL: [Add live site URL here](https://abraham0216.github.io/news-page-responsive/)
+- Solution URL: [Solution repository](https://github.com/Abraham0216/news-page-responsive)
+- Live Site URL: [Live site URL here](https://abraham0216.github.io/news-page-responsive/)
 
 ## My process
 
