@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 .nav-link {
-    @apply appearance-none cursor-pointer p-2 font-normal hover:text-red-500;
+    @apply appearance-none cursor-pointer p-2 font-normal hover:text-red-500 focus:underline;
   }
 
   * {

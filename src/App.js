@@ -20,7 +20,7 @@ function App() {
     </div>
     <TopNews/>
     <div class="attribution mx-auto py-10">
-    Challenge Coded by <a target='_blank' rel='noreferrer' href="https://github.com/Abraham0216" >Abraham Oñate</a>.
+    Challenge Coded by <a target='_blank' className='hover:underline' rel='noreferrer' href="https://github.com/Abraham0216" >Abraham Oñate</a>.
   </div>
     </div>
   );
