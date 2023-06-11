@@ -23,7 +23,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Screenshot
 
-![News Page](./src/assets/images/localhost_3000_%20(1).png)
+![News Page](./src/assets/images/localhost_3000_news-page-responsive.png)
 
 
 ### Links
